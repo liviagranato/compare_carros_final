@@ -5,6 +5,7 @@
 - Banco pgAdmin4
 
 Para executar o server nodejs, digitar "npm run dev"
+Atenção: no arquivo db.js, substituir as credenciais do banco para corresponder.
 
 Exemplos de requests:
 https://www.getpostman.com/collections/3a5d859e173bfd8fef57
