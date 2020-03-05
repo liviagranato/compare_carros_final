@@ -1,0 +1,42 @@
+{
+  "name": "compare_carros_final",
+  "version": "1.0.0",
+  "description": "- Desenvolvimento em Nodejs\r - Execução feita em server Nodejs\r - Banco pgAdmin4",
+  "main": "server.js",
+  "dependencies": {
+    "anymatch": "^3.1.1",
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "make-dir": "^1.3.0",
+    "nopt": "^1.0.10",
+    "nodemon": "^2.0.2",
+    "npm-run-path": "^2.0.2",
+    "pg": "^7.18.2",
+    "picomatch": "^2.2.1",
+    "pify": "^3.0.0",
+    "prepend-http": "^1.0.4",
+    "pseudomap": "^1.0.2",
+    "readdirp": "^3.3.0",
+    "request-promise": "^4.2.5",
+    "request": "^2.88.2",
+    "requesst": "^0.0.1-security",
+    "semver-diff": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviagranato/compare_carros_final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviagranato/compare_carros_final/issues"
+  },
+  "homepage": "https://github.com/liviagranato/compare_carros_final#readme"
+}
