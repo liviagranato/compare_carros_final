@@ -21,7 +21,6 @@
     "readdirp": "^3.3.0",
     "request-promise": "^4.2.5",
     "request": "^2.88.2",
-    "requesst": "^0.0.1-security",
     "semver-diff": "^2.1.0"
   },
   "devDependencies": {},
